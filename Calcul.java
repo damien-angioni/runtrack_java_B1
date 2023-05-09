@@ -8,7 +8,7 @@ public class Calcul {
         System.out.println(nombre);
     }
 
-    public static void main(String[] args) {    //Calling Main Method
-        Main();
+    public static void main(String[] args) {    //Calling Method
+        Main();                                 //Argument Main() to Method calling
     }
 }
