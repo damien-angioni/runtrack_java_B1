@@ -1,7 +1,5 @@
 package jour02.job05;
-
 import java.util.Scanner;
-
 public class job05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
